@@ -1,5 +1,5 @@
 # ACC - Adrian's Commit Codes
-## Version 1.0 - 8 November 2019
+## Version 1.0.1 - 8 November 2019
 
 Commit codes can be used to identify what the purpose of a commit is. For larger commits you should still use proper descriptions. These are guidelines only and can be adapted for personal use under the Unlicense.
 
@@ -10,7 +10,7 @@ Commit codes can be used to identify what the purpose of a commit is. For larger
 - `R-1.23AX/3-TEAM` - Ready for deploy/release – A commit that a release/package is based off, where `1.23` refers to the release/package number, and `A` refers to: Pre-Alpha/Prototype `P`; Alpha `A`; Beta `B`; Canary/Nightly `N`; Release candidate `S`; Final version `F`. In the situation of Releases, use `G-1.23` where `G` is the prefix.
 - `O-123/3-TEAM` - Other
 
-The `/5` in the above examples refer to a scale of importance. 
+The `/3` in the above examples refer to a scale of importance. 
 
 - `/1` is low importance (e.g minor bug fix like escaping characters)
 - `/2` is medium importance (e.g project enhancement/code cleanup)
@@ -20,4 +20,4 @@ The `-TEAM` refers to the team(s) that should be involved. For example, a bug fi
 
 The above commit codes can also be used for issues.
 
-Last modified 8 Nov 2019 (AEST)
+Last modified 9 Nov 2019 (AEST)
